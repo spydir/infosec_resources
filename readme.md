@@ -1,4 +1,5 @@
-# Spydir's Research Lab Bookmarks
+# Useful InfoSec Bookmarks
+Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list of bookmarks!
 
 ## AI & Machine Learning
 - [500 Powerful AI Tools](https://martinbern.com/ai-software-overview)
