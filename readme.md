@@ -1,4 +1,4 @@
-# Useful InfoSec Bookmarks
+# Dawn's InfoSec Bookmarks
 Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list of bookmarks!
 
 ## AI & Machine Learning
