@@ -27,6 +27,10 @@ Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list 
 - [LOLBAS](https://lolbas-project.github.io/)
 - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation | Ponder The Bits](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
 
+## Yara Rules 
+- [Github | elastic-protection-artifacts](https://github.com/elastic/protections-artifacts)
+- []()
+
 ## Damn Vulnerable
 - [Damn Vulnerable Application Scanner](https://ceur-ws.org/Vol-2940/paper36.pdf)
 - [Damn Vulnerable Decentralized Finances](https://www.damnvulnerabledefi.xyz/)
@@ -69,6 +73,7 @@ Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list 
 - [GitHub | Dawntouchme](https://github.com/Dawntouchme?tab=repositories)
 - [GitHub | edsabi](https://github.com/edsabi?tab=repositories)
 - [GitHub | Stryngs](https://github.com/stryngs?tab=repositories)
+- [GitHub | spydir](https://github.com/spydir?tab=repositories)
 
 ## Infrastructure
 - [MAAS | Metal as a Service](https://maas.io/)
@@ -79,6 +84,7 @@ Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list 
 - [GitHub | OTRF/SimuLand](https://github.com/OTRF/SimuLand)
 - [Orange-Cyberdefense/GOAD: game of active directory](https://github.com/Orange-Cyberdefense/GOAD)
 - [0xBallpoint/LOAD: Lord Of Active Directory - automatic vulnerable active directory on AWS](https://github.com/0xBallpoint/LOAD)
+- [CapsuleCorp Lab](https://github.com/R3dy/capsulecorp-pentest)
 
 ## Mainframe
 - [cadmusofthebes/tk4_ispf - Docker Image | Docker Hub](https://hub.docker.com/r/cadmusofthebes/tk4_ispf)
