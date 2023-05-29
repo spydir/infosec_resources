@@ -107,6 +107,9 @@ Thanks to @https://github.com/Dawntouchme?tab=repositories for sharing his list 
 - [Notebook Examples — Jupyter Notebook 6.5.3 documentation](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html)
 - [Projects · GitLab](https://gitlab.com/)
 
+## DevSecOps
+- [Deployment Guardrails and CI/CD](https://securityboulevard.com/2022/11/8-ci-cd-best-practices-secure-your-software-development-pipeline/)
+
 ## Red Team
 - [GitHub | RedDrop Exfil Server](https://github.com/cyberbutler/RedDrop)
 - [The C2 Matrix](https://www.thec2matrix.com/)
